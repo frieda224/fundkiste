@@ -1,0 +1,3 @@
+0 brotdose
+1 flasche
+2 stift
